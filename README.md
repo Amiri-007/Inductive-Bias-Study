@@ -2,8 +2,8 @@
 
 *Visualising how architecture shapes learning dynamics*
 
-> **Course**: Intro to Deep Learning (Spring 2025)  
-> **Author**: *Your Name*
+> **Course**: Intro to Deep Learning Project (Spring 2025)  
+> **Author**: Michael R. Amiri
 > **Repo**: [https://github.com/your-handle/mnist-cnn-vs-fcnn](https://github.com/your-handle/mnist-cnn-vs-fcnn)
 
 ---
@@ -29,24 +29,11 @@ The deliverables show **why CNNs learn faster** (spoke-like clusters within one 
 
 ```
 .
-├── notebook/                # Single Jupyter notebook (CNN & FCNN)
-│   └── bias_demo.ipynb
-├── src/                     # Clean script versions
-│   ├── models.py            # LeNet2D, FCNN2D classes
-│   ├── train.py             # Training + snapshot recording
-│   └── video_utils.py       # create_embedding_video()
-├── videos/
-│   ├── cnn_embedding_evolution.mp4
-│   └── fcnn_embedding_evolution.mp4
-├── figures/
-│   ├── cnn_regions.png
-│   ├── fcnn_regions_zoomed.png
-│   └── final_embeddings_compare1.png
-├── requirements.txt
-└── README.md                # ← you are here
+├── notebook.ipynb/          # Single Jupyter notebook (CNN & FCNN)
+└── README.md                # ← you are here (HI!) 
 ```
 
-> *Notebook-only mode*: just open **`notebook/bias_demo.ipynb`** and run top-to-bottom; all figures and videos regenerate automatically.
+> *Notebook-only mode*: just open **`notebook.ipynb`** and run top-to-bottom; all figures and videos regenerate automatically.
 
 ---
 
