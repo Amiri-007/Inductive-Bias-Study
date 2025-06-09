@@ -135,5 +135,5 @@ Install via `pip install -r requirements.txt` (CPU-only wheels available).
 
 ## 9 Credits & License
 
-Project by *Your Name* for NYU **Intro to Deep Learning** (Prof. Alfredo Canziani).
+Project by Michael Amiri for NYU **Intro to Deep Learning** (Prof. Alfredo Canziani).
 MIT License – use, modify, cite freely.
